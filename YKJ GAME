@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Y.K.J. GAME & YKJ AI Pro - Official App | Developed by Yogesh Kaler Jat</title>
+  <meta name="description" content="Official page of Y.K.J. GAME (YKJ AI Pro) Android App developed by Yogesh Kaler Jat (योगेश कालेर जाट). Features YKJ Flash Pro AI Chat, Free 8K AI Image Generator, 6-Angle Real AI Video Studio, Encrypted Vault, and 100+ Games." />
+  <meta name="keywords" content="YKJ Game, YKJ AI Pro, Y.K.J. GAME, Yogesh Kaler Jat, योगेश कालेर जाट, Free AI Video Generator App, 8K AI Image Generator, YKJ Neural 6-Angle, AppCreator24 AI App" />
+  <meta name="author" content="Yogesh Kaler Jat" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+    body { background: #070b14; color: #f1f5f9; line-height: 1.7; }
+    .container { max-width: 960px; margin: 0 auto; padding: 24px 16px; }
+    header { text-align: center; padding: 44px 20px; background: linear-gradient(135deg, #0f172a, #1e1b4b); border-radius: 20px; border: 1px solid #312e81; box-shadow: 0 12px 32px rgba(0,0,0,0.6); }
+    .badge { display: inline-block; background: rgba(56, 189, 248, 0.15); color: #38bdf8; padding: 6px 16px; border-radius: 50px; font-size: 0.85rem; font-weight: 600; margin-bottom: 14px; border: 1px solid rgba(56, 189, 248, 0.3); }
+    h1 { font-size: 2.4rem; color: #ffffff; margin-bottom: 12px; letter-spacing: 0.5px; }
+    .subtitle { font-size: 1.05rem; color: #cbd5e1; max-width: 720px; margin: 0 auto 20px; }
+    .dev-credit { font-size: 1.05rem; color: #fbbf24; font-weight: 700; margin-bottom: 26px; }
+    .btn-group { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; }
+    .btn-download { display: inline-block; background: linear-gradient(90deg, #06b6d4, #3b82f6); color: #ffffff; text-decoration: none; padding: 15px 32px; border-radius: 12px; font-size: 1.1rem; font-weight: bold; box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4); }
+    .btn-store { display: inline-block; background: #1e293b; color: #e2e8f0; text-decoration: none; padding: 15px 28px; border-radius: 12px; font-size: 1.05rem; font-weight: 600; border: 1px solid #334155; }
+    section { margin-top: 42px; }
+    h2 { font-size: 1.55rem; color: #38bdf8; margin-bottom: 18px; border-left: 4px solid #38bdf8; padding-left: 12px; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(270px, 1fr)); gap: 18px; }
+    .card { background: #111827; padding: 22px; border-radius: 14px; border: 1px solid #1f2937; }
+    .card h3 { color: #f8fafc; font-size: 1.15rem; margin-bottom: 10px; }
+    .card p { color: #94a3b8; font-size: 0.95rem; }
+    .info-box { background: #111827; padding: 24px; border-radius: 14px; border: 1px solid #1f2937; }
+    .info-box p { color: #cbd5e1; margin-bottom: 14px; }
+    .info-box ul { list-style: none; }
+    .info-box li { padding: 10px 0; border-bottom: 1px solid #1f2937; color: #e2e8f0; }
+    .info-box li:last-child { border-bottom: none; }
+    .tag-list { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 12px; }
+    .tag { background: #1e293b; color: #38bdf8; padding: 6px 14px; border-radius: 8px; font-size: 0.9rem; border: 1px solid #334155; }
+    footer { text-align: center; margin-top: 50px; padding: 24px; color: #64748b; font-size: 0.9rem; border-top: 1px solid #1e293b; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="badge">Next-Gen AI Assistant • Real Video Studio • Gaming & Rewards</div>
+      <h1>Y.K.J. GAME (YKJ AI Pro)</h1>
+      <p class="subtitle">
+        सुपरफास्ट AI चैट, फ्री 8K इमेज जनरेशन, 6-एंगल सिनेमैटिक रियल AI वीडियो स्टूडियो, 100% प्राइवेट एन्क्रिप्टेड वॉल्ट और 100+ गेम्स — सब कुछ एक ही ऑल-इन-वन Android ऐप में।
+      </p>
+      <div class="dev-credit">Created & Developed by: Yogesh Kaler Jat (योगेश कालेर जाट)</div>
+      <div class="btn-group">
+        <a href="https://apk.e-droid.net/apk/app3967791-o437gt.apk?v=4" class="btn-download">⬇️ Download Official APK (v9.8)</a>
+        <a href="https://www.appmarket24.com/app3967791-o437gt" target="_blank" class="btn-store">🌐 AppMarket24 Store Page</a>
+      </div>
+    </header>
+
+    <section>
+      <h2>YKJ AI Pro — एडवांस्ड आर्टिफिशियल इंटेलिजेंस टूल्स</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>⚡ YKJ Flash Pro AI Chat (0.01s Latency)</h3>
+          <p>इंस्टेंट स्ट्रीमिंग और अल्ट्रा-लो लेटेंसी के साथ सुपरफास्ट AI चैटबॉट। इसमें किसी भी सवाल का तुरंत जवाब, क्रिएटिव राइटिंग, और हिंदी व इंग्लिश में वॉइस असिस्टेंट (Male & Female Voice Narration) की सुविधा मिलती है।</p>
+        </div>
+        <div class="card">
+          <h3>🎬 Free Unlimited Real AI Video Studio</h3>
+          <p>100% फ्री और अनलिमिटेड वीडियो जनरेशन, जिसमें Text-to-Video (Google Veo) और Image-to-Video (Photo to Real Video) दोनों मोड्स हैं। 5 सेकंड, 10 सेकंड, 15 सेकंड और 20 सेकंड तक के हाई-क्वालिटी वीडियो बनाएं।</p>
+        </div>
+        <div class="card">
+          <h3>🎥 3 पावरफुल वीडियो मॉडल्स व कैमरा स्टाइल</h3>
+          <p>इसमें <strong>मॉडल 1: YKJ Neural (6-Angle Director's Cut)</strong> है जो एक फोटो के 6 अलग-अलग कैमरा एंगल्स (वाइड ड्रोन, मीडियम, लो-एंगल, क्लोज़-अप, ओवरहेड) जनरेट कर 60fps स्मूथ वीडियो बनाता है। साथ ही <strong>मॉडल 2: Pollinations Video</strong>, <strong>मॉडल 3: YKJ Ultra Pro</strong>, Handheld Phone Cam और Cinematic Push-In मूवमेंट भी उपलब्ध हैं।</p>
+        </div>
+        <div class="card">
+          <h3>🖼️ Free 8K AI Image Generator & Editor</h3>
+          <p>सिर्फ प्रॉम्प्ट लिखकर 8K हाई-डेफिनिशन इमेज, Cyberpunk 4K Art और Image-to-Image ट्रांसफॉर्मेशन करें। फोटो एडिटिंग और क्रिएटिव आर्ट के लिए इंस्टेंट प्रॉम्प्ट्स भी दिए गए हैं।</p>
+        </div>
+        <div class="card">
+          <h3>🔒 Zero-Leak Private & Encrypted Vault</h3>
+          <p>आपकी निजी चैट, फोटो और मीडिया फाइलों को पूरी तरह सुरक्षित रखने के लिए पासवर्ड/पिन लॉक और सिक्योरिटी प्रश्न (Security Question) पर आधारित 100% प्राइवेट एन्क्रिप्टेड वॉल्ट दिया गया है।</p>
+        </div>
+        <div class="card">
+          <h3>💬 सोशल, चैट और 24/7 लाइव सपोर्ट</h3>
+          <p>ऐप के अंदर यूज़र्स के लिए रियल-टाइम Squad & Chat, शॉर्ट वीडियो और रील्स शेयरिंग, स्टोरी पोस्टिंग और किसी भी मदद के लिए सीधा WhatsApp कस्टमर केयर सपोर्ट उपलब्ध है।</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Y.K.J. GAME PRO — गेम्स और रिवॉर्ड सेक्शंस</h2>
+      <div class="info-box">
+        <p><strong>Y.K.J. GAME</strong> सिर्फ एक AI ऐप नहीं है, बल्कि एक कम्प्लीट एंटरटेनमेंट और गेमिंग हब भी है, जिसमें ऑनलाइन और ऑफलाइन दोनों तरह के गेम्स शामिल हैं:</p>
+        <div class="tag-list">
+          <span class="tag">😈 Y.K.J. AI Pro</span>
+          <span class="tag">🎮 Y.K.J. GAMES (100+ Games)</span>
+          <span class="tag">📴 Y.K.J. GAME OFFLINE</span>
+          <span class="tag">🐦 Flappy-Style & Racing Games</span>
+          <span class="tag">🎡 Daily Spin & Scratch</span>
+          <span class="tag">📋 Task Wall & Daily Missions</span>
+          <span class="tag">🛒 Item Shop & Wallet</span>
+          <span class="tag">📷 Built-in QR Scanner</span>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>तकनीकी विवरण (Official App Information)</h2>
+      <div class="info-box">
+        <ul>
+          <li><strong>App Name:</strong> Y.K.J. GAME (YKJ AI Pro)</li>
+          <li><strong>Developer Name:</strong> Yogesh Kaler Jat (योगेश कालेर जाट)</li>
+          <li><strong>App Version:</strong> 9.8 (Android APK)</li>
+          <li><strong>Package Name:</strong> ykjgame2</li>
+          <li><strong>Primary Language:</strong> Hindi & English</li>
+          <li><strong>Category:</strong> Artificial Intelligence (AI), Video Generator & Games</li>
+          <li><strong>Direct APK Download:</strong> <a href="https://apk.e-droid.net/apk/app3967791-o437gt.apk?v=4" style="color:#38bdf8;">https://apk.e-droid.net/apk/app3967791-o437gt.apk?v=4</a></li>
+          <li><strong>AppMarket24 Listing:</strong> <a href="https://www.appmarket24.com/app3967791-o437gt" target="_blank" style="color:#38bdf8;">https://www.appmarket24.com/app3967791-o437gt</a></li>
+        </ul>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2026 Y.K.J. GAME & YKJ AI Pro. All Rights Reserved. | Developed by Yogesh Kaler Jat (योगेश कालेर जाट).</p>
+    </footer>
+  </div>
+</body>
+</html>
